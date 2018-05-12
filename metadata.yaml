@@ -1,0 +1,42 @@
+_repo: The-Simple-Life_23092
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hendee, Mary Louise
+    birthdate: 1859
+    gutenberg_agent_id: '25670'
+    url: http://www.gutenberg.org/2009/agents/25670
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wagner, Charles
+    birthdate: 1852
+    deathdate: 1918
+    gutenberg_agent_id: '25671'
+    url: http://www.gutenberg.org/2009/agents/25671
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_Wagner
+    - http://fr.wikipedia.org/wiki/Charles_Wagner
+description: Charles Wagner was a French reformed pastor whose inspirational writings
+  were influential in shaping liberal reformed theology. In 1904, he was invited to
+  preach at the White House by Theodore Roosevelt on whom this book of Wagner's, The
+  Simple Life had made a lasting impression. "The spirit of simplicity is a great
+  magician. It softens asperities, bridges chasms, draws together hands and hearts.
+  The forms which it takes in the world are infinite in number; but never does it
+  seem to us more admirable than when it shows itself across the fatal barriers of
+  position, interest, or prejudice.
+gutenberg_issued: '2007-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Conduct of life'
+title: The Simple Life
+url: http://www.gutenberg.org/ebooks/23092
